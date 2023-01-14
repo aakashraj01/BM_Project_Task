@@ -1,0 +1,38 @@
+.bill-footer
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.apply-filters-button
+{
+    margin-top: 25px;
+}
+body{
+    background-color: rgb(47, 2, 65);
+    /* color: white; */
+}
+.MonthlyInner{
+   text-align: center;
+   display: flex;
+   align-items: center;
+   /* justify-content: space-between; */
+}
+
+
+.offcanvas-header
+{
+    background-color: rgb(94, 8, 129);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.offcanvas-body{
+    background-color: rgb(47, 2, 65);
+    color: white;
+    padding: 10px;
+}

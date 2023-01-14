@@ -1,0 +1,28 @@
+.navbar
+{
+    background-color: rgb(94, 8, 129);
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.navbar ul
+{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar ul a
+{
+    font-size: larger;
+    font-weight: 300;
+    text-decoration: none;
+    color: white;
+}
+.logo{
+    width: 163px;
+    height: 38px;
+}

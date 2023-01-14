@@ -1,0 +1,12 @@
+.card
+{
+    margin: 5px;
+    color: yellow;
+}
+
+.bill-card-edit-button-container
+{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
